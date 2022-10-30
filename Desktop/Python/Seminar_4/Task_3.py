@@ -11,3 +11,4 @@ for i in range(1, b):
         break
 print(f'{a} {i} = {a * (i)}')
 print(f'{a} {i} = {a * (i)}')
+print(f'{a} {i} = {a * (i)}')
